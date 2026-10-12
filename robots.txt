@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# [EDIT] Replace with the final site URL once the new repo is live
+Sitemap: https://YOUR-USERNAME.github.io/YOUR-REPO/sitemap.xml
